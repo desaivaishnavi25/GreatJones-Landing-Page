@@ -1,0 +1,61 @@
+.d-flex a:hover {
+  color: black;
+}
+main {
+  background-color: #fac213;
+}
+footer {
+  float: absolute;
+  background-color: #1c320a;
+  color: white;
+}
+/*.bg{
+    font-family: Gentium Plus;
+    display: inline;
+}
+card-text-body{
+  margin-left: 45px;
+}*/
+
+.bg{
+  display:block;
+  border:10px;
+}
+.card-body{
+  display: inline-block;
+  border:10px;
+  margin-left: 147px;
+}
+.card-title{
+  font-family: 'Yellowtail', cursive;
+  padding-left: 43px;
+  text-decoration: underline;
+}
+.card-text{
+  padding-left: 53px;
+  padding-top: 32px;
+  font-size: medium;
+  font-weight:40;
+}
+.card-text2{
+  padding-left: 55px;
+  font-size: xx-large;
+  font-weight: bold;
+}
+.card-text3{
+padding-left: 12px;
+}
+.card-text4{
+  padding-left: 55px;
+}
+.btn{
+  margin-left: 82px;
+}
+.card-text5{
+  padding-left: 50px;
+  padding-top: 32px;
+  text-decoration: underline;
+}
+footer{
+  text-align: center;
+}
